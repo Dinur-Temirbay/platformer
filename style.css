@@ -1,0 +1,13 @@
+body {
+  background-color: #00ced1;
+}
+.main {
+  margin-left: 550px;
+  margin-top: 40px;
+  font-family: Montserrat;
+}
+#game {
+  margin-left: 232px;
+  margin-top: 25px;
+  border: 5px solid black;
+}
